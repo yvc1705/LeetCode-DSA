@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yvc1705/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/yvc1705/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yvc1705/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yvc1705/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
