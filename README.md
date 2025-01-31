@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yvc1705/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/yvc1705/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/yvc1705/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yvc1705/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/yvc1705/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/yvc1705/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/yvc1705/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yvc1705/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [2032-largest-odd-number-in-string](https://github.com/yvc1705/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
