@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yvc1705/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yvc1705/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yvc1705/LeetCode-DSA/tree/master/0118-pascals-triangle) |
+| [0496-next-greater-element-i](https://github.com/yvc1705/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yvc1705/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yvc1705/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/yvc1705/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/yvc1705/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yvc1705/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yvc1705/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/yvc1705/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/yvc1705/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Matrix
 |  |
@@ -82,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yvc1705/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/yvc1705/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
